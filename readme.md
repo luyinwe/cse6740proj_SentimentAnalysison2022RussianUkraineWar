@@ -12,13 +12,13 @@ We plan to prepare a new dataset relating to this issue from twitter and label t
 
 ## LDA Visualization
 
- ![](image\lda_result.png)
+ ![](https://github.com/luyinwe/cse6740proj_SentimentAnalysison2022RussianUkraineWar/tree/main/image/lda_result.png)
 
 LDA models can help us extract people's opinions on specific issues. For example, if we select the names of some leaders (Biden, Putin, Zelensky) as keywords, we can get a rough idea of what people think of them. Take Biden as an example, people mentioned more about his altitude towards Russia and China. Some of them also asked Biden to prevent Russia from invading Ukraine. Quite a few people compared Biden with Trump.
 
 ## Visualization Panel
 
-![](image\visualization_panel.png)
+![](https://github.com/luyinwe/cse6740proj_SentimentAnalysison2022RussianUkraineWar/tree/main/image/visualization_panel.png)
 
 The UI system is designed to visualize how public views variate across the nations, and how it changes as the war still going on, and understand what people really care about. The bluer the coutry is, the more positive the public view is in this country. 
 
